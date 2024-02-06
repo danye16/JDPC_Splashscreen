@@ -12,7 +12,7 @@ using System.Text;
 
 namespace JDPC_Splashscreen.Droid
 {
-    [Activity(Label = "JDPC_Splashscreen", Icon = "@mipmap/icon", Theme = "@style/MainTheme", MainLauncher = true, ConfigurationChanges = ConfigChanges.ScreenSize )]
+    [Activity(Label = "JDPC_Splashscreen", Icon = "@mipmap/icon", Theme = "@style/nuevoTema", MainLauncher = true, ConfigurationChanges = ConfigChanges.ScreenSize )]
     //    public class MainActivity : global::Xamarin.Forms.Platform.Android.FormsAppCompatActivity
 
     public class Splashscreen1 : global::Xamarin.Forms.Platform.Android.FormsAppCompatActivity
